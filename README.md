@@ -17,6 +17,7 @@ Agile tools make for excellent communication and collaboration on projecsts. The
 3.Provide real-time dashboards and reports that show the Agile team’s progress against the product roadmap
 
 **Explain why Agile is necessary for complex product development**
+
 **Differentiate between being agile and doing agile**
 
 # Project: Launch Agile Transformation for WorldVisitz
