@@ -18,6 +18,10 @@ Agile tools make for excellent communication and collaboration on projecsts. The
 
 **Explain why Agile is necessary for complex product development**
 
+Agile accelerates product development cycles
+
+Agile teams can release products 50 to 80% faster than teams with traditional approach to product development.
+
 **Differentiate between being agile and doing agile**
 
 **Diffrentiate between agile and waterfall approaches and where each makes sense**
