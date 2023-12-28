@@ -24,9 +24,13 @@ Agile teams can release products 50 to 80% faster than teams with more tradition
 
 **Differentiate between being agile and doing agile**
 
+Some organizations and Agile Teams unfortunately just focus on Doing Agile. This equates to simply adopting the practices without committing to or exhibiting agile principles and values.
+
+Being Agile is the foundation that truly elevates individuals, teams, and organizations to unleash their latent potential to deliver monumental and focused value.
+
 **Diffrentiate between agile and waterfall approaches and where each makes sense**
 
-Efficiency vs effectiveness: 
+# Efficiency vs effectiveness: 
 
 If you’re only focused on going fast, you prioritize efficiency, if you’re trying to focus on innovation, creativity, and making sure you’re working on the right thing, you need to focus on effectiveness.
 
@@ -46,8 +50,15 @@ Ambiguity: Ambiguity refers to a lack of clarity, such as not having a clear und
 
 Muda: Lean principles refer to the Japanese term Muda as waste; Agile teams focus on the removal of non-value adding tasks that are seen as Muda
 
-Agilist combine systems thinking with a growth mindset to deliver optimal business value. While traditional thinking looks at parts of a problem separately, systems thinking looks at the interdependent and connected parts of a system. It considers how systems interrelate and influence each other.
+Agilist combine systems thinking with a growth mindset to deliver optimal business value. While traditional thinking looks at parts of a problem separately, systems thinking is a holistic approach that looks at the way a system's components interrelate and influence each other and how these components come together within the context of larger systems to deliver a solution
 
+**Agile:** is a set of principles that guide how we as individuals, as teams and as organizations think about, as well as act upon the work that we do.
+
+Business agility is the ability of an organization to:
+
+Adapt quickly to market changes
+Respond rapidly and flexibly to customer demands that make business sense
+Adapt and lead change in a productive and cost-effective manner with no compromise to quality
 
 # Project: Launch Agile Transformation for WorldVisitz
 WorldVisitz is a Travel agency that is planning to launch a mobile application product.WorldVisitz executives have hired me to define an Agile delivery solution to transform their current traditional product development processes. I'll make two presentations one to the executive team and the other to the Agile team
