@@ -46,7 +46,7 @@ Ambiguity: Ambiguity refers to a lack of clarity, such as not having a clear und
 
 Muda: Lean principles refer to the Japanese term Muda as waste; Agile teams focus on the removal of non-value adding tasks that are seen as Muda
 
-
+Agilist combine systems thinking with a growth mindset to deliver optimal business value. While traditional thinking looks at parts of a problem separately, systems thinking looks at the interdependent and connected parts of a system. It considers how systems interrelate and influence each other.
 
 
 # Project: Launch Agile Transformation for WorldVisitz
