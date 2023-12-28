@@ -58,7 +58,11 @@ Business agility is the ability of an organization to:
 
 Adapt quickly to market changes
 Respond rapidly and flexibly to customer demands that make business sense
-Adapt and lead change in a productive and cost-effective manner with no compromise to quality
+Adapt and lead change productively and cost-effectively with no compromise to quality
 
 # Project: Launch Agile Transformation for WorldVisitz
 WorldVisitz is a Travel agency that is planning to launch a mobile application product.WorldVisitz executives have hired me to define an Agile delivery solution to transform their current traditional product development processes. I'll make two presentations one to the executive team and the other to the Agile team
+
+# Case Study: Applying the Agile mindset 
+Exercise Scenario: SocialKare.gov
+
