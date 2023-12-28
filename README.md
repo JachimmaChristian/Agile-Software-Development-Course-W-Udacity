@@ -32,6 +32,22 @@ If you’re only focused on going fast, you prioritize efficiency, if you’re t
 
 Agile ensures a balanced approach whereby Agile Teams ensure there is a balance between speed and creativity.
 
+**New terms**
+
+VUCA: Volatility, Uncertainty, Complexity, Ambiguity
+
+Volatility: Volatility is when there are unexpected or unstable possibilities that may influence the work being done
+
+Uncertainty: The extent to which an organization can confidently predict or forecast the future; more uncertainty makes it harder to predict
+
+Complexity: Complexity exists when there are many interconnected parts and variables that influence each other
+
+Ambiguity: Ambiguity refers to a lack of clarity, such as not having a clear understanding of the genuine needs of the customer and end-users
+
+Muda: Lean principles refer to the Japanese term Muda as waste; Agile teams focus on the removal of non-value adding tasks that are seen as Muda
+
+
+
 
 # Project: Launch Agile Transformation for WorldVisitz
 WorldVisitz is a Travel agency that is planning to launch a mobile application product.WorldVisitz executives have hired me to define an Agile delivery solution to transform their current traditional product development processes. I'll make two presentations one to the executive team and the other to the Agile team
