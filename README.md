@@ -64,5 +64,5 @@ Adapt and lead change productively and cost-effectively with no compromise to qu
 WorldVisitz is a Travel agency that is planning to launch a mobile application product.WorldVisitz executives have hired me to define an Agile delivery solution to transform their current traditional product development processes. I'll make two presentations one to the executive team and the other to the Agile team
 
 # Case Study: Applying the Agile mindset 
-Exercise Scenario: SocialKare.gov
+**Exercise Scenario: SocialKare.gov** [View Case Study details](https://github.com/JachimmaChristian/Agile-Software-Development-Course-W-Udacity/blob/main/Foundations-of-agile-socialkare.gov-case-study.pdf)
 
