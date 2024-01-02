@@ -82,3 +82,4 @@ The whole product procedure was process-centric to deliver the product successfu
 3. Customer collaboration over contract negotiation: Agile promotes a collaborative outlook when product owners work with their customers in reaching an agreement on the details of the product delivery.
 4. Responding to changes over following a plan: Agile embraces the change that makes business sense.
 
+The Agile Manifesto’s 4 paired core values and its associated 12 guiding principles set a solid foundation for the various Agile Frameworks that are currently being practiced by successful organizations in today’s digital age.
