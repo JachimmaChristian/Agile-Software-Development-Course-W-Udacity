@@ -15,7 +15,7 @@ Agile emerged as a solution to the business crisis of the early 1990s when it wa
 
 2.Business Value
 
-Agile tools:
+**Agile tools:**
 
 Agile tools make for excellent communication and collaboration on projecsts. They:
 
@@ -77,5 +77,8 @@ Before the late 1990s, most product development followed a waterfall-style proje
 The whole product procedure was process-centric to deliver the product successfully rather than focus on delivering a successful product. This is what led 17 experts to get together and finalize the Agile Manifesto at a meeting in Utah back in 2001.
 
 **Agile Four Paired Core Values:**
-
+1. Individuals and interactions over processes and tools: Agile places more importance and emphasis on people and their interactions over processes and even tools.
+2. Working software over comprehensive documentation: Documentation requires a time and resource commitment that might be wasteful.
+3. Customer collaboration over contract negotiation: Agile promotes a collaborative outlook when product owners work with their customers in reaching an agreement on the details of the product delivery.
+4. Responding to changes over following a plan: Agile embraces the change that makes business sense.
 
