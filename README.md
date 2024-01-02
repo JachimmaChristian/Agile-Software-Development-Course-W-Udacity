@@ -1,6 +1,14 @@
 # Agile-Software-Development-Course-W-Udacity
 I am using this repo to take notes and document my learning journey and experience as I seek to use the agile approach on my tasks as a Data/Business Analyst.
 
+**Agile:** is a set of principles that guide how we as individuals, as teams and as organizations think about, as well as act upon the work that we do.
+
+Business agility is the ability of an organization to:
+
+1. Adapt quickly to market changes
+2. Respond rapidly and flexibly to customer demands that make business sense
+3. Adapt and lead change productively and cost-effectively with no compromise to quality
+
 Agile emerged as a solution to the business crisis of the early 1990s when it was taking 2 to 4 years to deliver software solutions, but user needs were beginning to change fast the need for another method of development that focuses on:
 
 1.Business Users
@@ -16,6 +24,8 @@ Agile tools make for excellent communication and collaboration on projecsts. The
 2.Can be customized to accommodate Agile teams in various industries with different Agile frameworks
 
 3.Provide real-time dashboards and reports that show the Agile team’s progress against the product roadmap
+
+These tools include: 
 
 **Explain why Agile is necessary for complex product development**
 
@@ -53,14 +63,6 @@ Ambiguity: Ambiguity refers to a lack of clarity, such as not having a clear und
 Muda: Lean principles refer to the Japanese term Muda as waste; Agile teams focus on the removal of non-value adding tasks that are seen as Muda
 
 Agilist combine systems thinking with a growth mindset to deliver optimal business value. While traditional thinking looks at parts of a problem separately, systems thinking is a holistic approach that looks at the way a system's components interrelate and influence each other and how these components come together within the context of larger systems to deliver a solution
-
-**Agile:** is a set of principles that guide how we as individuals, as teams and as organizations think about, as well as act upon the work that we do.
-
-Business agility is the ability of an organization to:
-
-Adapt quickly to market changes
-Respond rapidly and flexibly to customer demands that make business sense
-Adapt and lead change productively and cost-effectively with no compromise to quality
 
 ## Project: Launch Agile Transformation for WorldVisitz
 WorldVisitz is a Travel agency that is planning to launch a mobile application product.WorldVisitz executives have hired me to define an Agile delivery solution to transform their current traditional product development processes. I'll make two presentations one to the executive team and the other to the Agile team
