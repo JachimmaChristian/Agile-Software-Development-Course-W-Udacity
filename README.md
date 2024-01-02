@@ -8,6 +8,7 @@ Agile emerged as a solution to the business crisis of the early 1990s when it wa
 2.Business Value
 
 Agile tools:
+
 Agile tools make for excellent communication and collaboration on projecsts. They:
 
 1.Help monitor the teams’ progress in a transparent and visible manner
@@ -30,7 +31,8 @@ Being Agile is the foundation that truly elevates individuals, teams, and organi
 
 **Diffrentiate between agile and waterfall approaches and where each makes sense**
 
-# Efficiency vs effectiveness: 
+
+Efficiency vs effectiveness: 
 
 If you’re only focused on going fast, you prioritize efficiency, if you’re trying to focus on innovation, creativity, and making sure you’re working on the right thing, you need to focus on effectiveness.
 
@@ -60,9 +62,18 @@ Adapt quickly to market changes
 Respond rapidly and flexibly to customer demands that make business sense
 Adapt and lead change productively and cost-effectively with no compromise to quality
 
-# Project: Launch Agile Transformation for WorldVisitz
+## Project: Launch Agile Transformation for WorldVisitz
 WorldVisitz is a Travel agency that is planning to launch a mobile application product.WorldVisitz executives have hired me to define an Agile delivery solution to transform their current traditional product development processes. I'll make two presentations one to the executive team and the other to the Agile team
 
-# Case Study: Applying the Agile mindset 
+## Case Study: Applying the Agile mindset 
 **Exercise Scenario: SocialKare.gov** [View Case Study details](https://1drv.ms/w/s!AuekbXziIL5_knJBhO378ydLhjru?e=4WSIBg)
+
+# Agile Manifesto
+
+Before the late 1990s, most product development followed a waterfall-style project development life cycle that was based on adhering to strict processes.
+
+The whole product procedure was process-centric to deliver the product successfully rather than focus on delivering a successful product. This is what led 17 experts to get together and finalize the Agile Manifesto at a meeting in Utah back in 2001.
+
+**Agile Four Paired Core Values:**
+
 
